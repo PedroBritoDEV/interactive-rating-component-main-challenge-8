@@ -62,6 +62,7 @@ main {
     border-radius: 50%;
     background-color: #2a333c;
     transition: .3s;
+    cursor: pointer;
 }
 .main-content .buttons button:hover {
     background-color: #fb7413;
@@ -78,6 +79,7 @@ main {
     height: 45px;
     border-radius: 2em;
     transition: .3s;
+    cursor: pointer;
 }
 .main-content .submit button:hover {
     background-color: white;
